@@ -414,7 +414,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 34.29) (xy 101.6 34.29)
+			(xy 92.71 34.29) (xy 104.14 34.29)
 		)
 		(stroke
 			(width 0)
@@ -454,7 +454,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 46.99) (xy 101.6 54.61)
+			(xy 104.14 46.99) (xy 104.14 54.61)
 		)
 		(stroke
 			(width 0)
@@ -474,7 +474,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 34.29) (xy 101.6 39.37)
+			(xy 104.14 34.29) (xy 104.14 39.37)
 		)
 		(stroke
 			(width 0)
@@ -484,7 +484,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 54.61) (xy 92.71 54.61)
+			(xy 104.14 54.61) (xy 92.71 54.61)
 		)
 		(stroke
 			(width 0)
@@ -654,7 +654,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 101.6 43.18 0)
+		(at 104.14 43.18 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -665,7 +665,7 @@
 		(fields_autoplaced yes)
 		(uuid "60f8b2a7-aa6c-4690-9356-2ae624905762")
 		(property "Reference" "R2"
-			(at 104.14 41.9099 0)
+			(at 106.68 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -676,7 +676,7 @@
 			)
 		)
 		(property "Value" "470R"
-			(at 104.14 44.4499 0)
+			(at 106.68 44.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -687,7 +687,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 99.822 43.18 90)
+			(at 102.362 43.18 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -698,7 +698,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 43.18 0)
+			(at 104.14 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -709,7 +709,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 101.6 43.18 0)
+			(at 104.14 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
